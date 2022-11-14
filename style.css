@@ -354,7 +354,7 @@ body {
 
 #trending .trending-container .trending-item a:hover {
     color: #6596df;
-    transition: 1s;
+    transition: 1.2s;
 }
 
 .header-text {
